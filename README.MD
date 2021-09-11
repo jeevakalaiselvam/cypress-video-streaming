@@ -1,6 +1,4 @@
-# Example-4
-
-This example demonstrates end to end testing a microservice with Cypress.
+# End to end testing a microservice with Cypress.
 
 First you must boot the microservices application:
 
