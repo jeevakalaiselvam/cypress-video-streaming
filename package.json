@@ -1,0 +1,13 @@
+{
+  "name": "example-4",
+  "version": "1.0.0",
+  "scripts": {
+    "test:watch": "cypress open",
+    "test": "cypress run"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^4.12.1",
+    "mongodb": "^3.6.0"
+  }
+}
