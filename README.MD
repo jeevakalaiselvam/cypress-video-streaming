@@ -9,7 +9,7 @@ docker-compose up --build
 Now install dependencies for testing:
 
 ```bash
-cd example-4
+cd project_folder
 npm install
 ```
 
